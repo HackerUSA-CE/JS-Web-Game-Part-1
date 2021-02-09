@@ -11,7 +11,7 @@ function makeObject(url, left, bottom){
 function makeItem(url, left, bottom){
     let object = makeObject(url, left, bottom)
 
-    object.addEventListener('click', () => {
+    object.addEventListener('dblclick', () => {
         object.remove()
     })
 }
