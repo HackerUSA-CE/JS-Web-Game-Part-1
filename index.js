@@ -21,7 +21,7 @@ makeObject('assets/tree.png', 200, 300)
 makeObject('assets/pillar.png', 350, 100)
 makeObject('assets/pine-tree.png', 450, 200)
 makeObject('assets/crate.png', 150, 200)
-makeObject('assets/well.png', 500, 400)
+makeObject('assets/well.png', 500, 425)
 
 makeItem('assets/sword.png', 500, 405)
 makeItem('assets/shield.png', 165, 185)
